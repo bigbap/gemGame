@@ -31,19 +31,19 @@ public class Board {
 		HEX_BLUE("012"),
 		HEX_PURPLE("013"), 
 		HEX_WHITE("014"), */
-		CIRCLE_RED("015"),
+		//CIRCLE_RED("015"),
 		CIRCLE_ORANGE("016"), 
-		/*CIRCLE_YELLOW("017"),
+		//CIRCLE_YELLOW("017"),
 		CIRCLE_GREEN("018"), 
-		CIRCLE_BLUE("019"), 
+		//CIRCLE_BLUE("019"), 
 		CIRCLE_PURPLE("020"),
 		CIRCLE_WHITE("021"),
 		TRIG_RED("022"),
-		TRIG_ORANGE("023"), 
-		TRIG_YELLOW("024"), */
+		//TRIG_ORANGE("023"), 
+		TRIG_YELLOW("024"), 
 		TRIG_GREEN("025"),
 		TRIG_BLUE("026"), 
-		TRIG_PURPLE("027"), 
+		//TRIG_PURPLE("027"), 
 		TRIG_WHITE("028");
 		
 		private String value;
